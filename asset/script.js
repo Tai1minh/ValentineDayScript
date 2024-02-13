@@ -52,7 +52,7 @@ $('.kehalaman2').click(function() {
 });
 
 var i = 0;
-var txt = "Ribuan malam ku termenung sendiri, Menunggu seseorang untuk memelukku, Lewati ratusan mimpi tersimpan dalam sanubari, Sendiri di tengah kegelapan yang semu. Terimakasih engkau telah hadir untukku,\nmenemani kesepianku dan telah menjadi penerang dalam gelapku,  I Love You";
+var txt = "Chào em nhó,";
 var speed = 200;
 
 function JalaninTeks() {
