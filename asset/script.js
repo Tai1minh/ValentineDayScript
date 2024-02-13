@@ -52,7 +52,7 @@ $('.kehalaman2').click(function() {
 });
 
 var i = 0;
-var txt = "Anh không biết làm cái này có quá không =)). Nhưng mà a nghĩ em sẽ thích mấy cái cute như này. Hi vọng hậu Valentine vui vẻ ha <3.";
+var txt = "Anh muốn làm cái gì đó cute dễ thương nên a làm cái này cho em. A nghĩ em sẽ thích =)). Hi vọng hậu Valentine vui vẻ ha <3.";
 var speed = 200;
 
 function JalaninTeks() {
